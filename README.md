@@ -19,7 +19,7 @@
 
   ![employee-tracker-app screen shot-view employees](https://user-images.githubusercontent.com/57837212/100275482-fecfd800-2f2d-11eb-803b-bc5b43206623.PNG)
   
-  ![Demo-Video](https://drive.google.com/file/d/1bgtIR34BlQ4-pAPkGjFrbv3Ae70Bdq1C/view?usp=sharing)
+  ![demo-video](https://drive.google.com/file/d/1bgtIR34BlQ4-pAPkGjFrbv3Ae70Bdq1C/view?usp=sharing)
 
   ## Installation
   1. Fork Repository
